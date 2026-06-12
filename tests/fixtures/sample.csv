@@ -1,0 +1,8 @@
+id,name,region,amount,active
+1,Alice,EU,1200.50,true
+2,Bob,US,850.00,true
+3,Carol,APAC,0.00,false
+4,David,EU,99.99,true
+5,Elena,EU,2500.00,false
+6,Frank,US,310.75,true
+7,Grace,EU,45.10,true
